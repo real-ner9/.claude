@@ -1,3 +1,4 @@
 context7
 typescript-lsp
 commit-commands
+playwright
