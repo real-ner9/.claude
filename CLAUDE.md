@@ -156,6 +156,12 @@ When creating commits:
 - keep messages short and professional
 - DO NOT mention assistants, LLMs, AI tools, or Anthropic
 
+## Plugins
+
+On session start, check installed plugins (`claude plugin list`) against `~/.claude/required-plugins.txt`. Install any missing ones with `claude plugin install <name>`.
+
+When installing a new plugin via `claude plugin install`, also add its name to `~/.claude/required-plugins.txt` to keep the list in sync across devices.
+
 ## MCP
 
 Always use Context7 MCP when I need library/API documentation, code generation, setup or configuration steps without me having to explicitly ask.

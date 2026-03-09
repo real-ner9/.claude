@@ -25,6 +25,19 @@ file-history/
 # Each machine generates its own project dirs based on local paths.
 # Memory inside projects/ is useful but inherently device-bound.
 projects/
+image-cache/
+
+# Plugins (device-specific paths and caches)
+plugins/installed_plugins.json
+plugins/install-counts-cache.json
+plugins/cache/
+plugins/marketplaces/
+
+# Local session permissions (device-specific)
+.claude/
+
+# Windows artifact
+nul
 
 # IDE
 .idea/
