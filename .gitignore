@@ -1,0 +1,30 @@
+# Credentials & secrets
+.credentials.json
+
+# Session data (device-specific, regenerated each session)
+history.jsonl
+stats-cache.json
+todos/
+shell-snapshots/
+
+# Caches
+cache/
+paste-cache/
+
+# Debug & telemetry
+debug/
+telemetry/
+downloads/
+
+# Session-bound plans, tasks, file history
+plans/
+tasks/
+file-history/
+
+# Per-project data (paths are device-specific, e.g. C--Users-yakik-...)
+# Each machine generates its own project dirs based on local paths.
+# Memory inside projects/ is useful but inherently device-bound.
+projects/
+
+# IDE
+.idea/
