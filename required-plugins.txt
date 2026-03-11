@@ -2,3 +2,4 @@ context7
 typescript-lsp
 commit-commands
 playwright
+yakik-dev-toolkit

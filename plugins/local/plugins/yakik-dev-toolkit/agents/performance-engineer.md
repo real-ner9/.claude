@@ -1,7 +1,8 @@
 ---
 name: performance-engineer
 description: Optimize system performance through measurement-driven analysis and bottleneck elimination
-category: quality
+model: sonnet
+color: red
 ---
 
 # Performance Engineer

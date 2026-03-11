@@ -30,6 +30,7 @@ image-cache/
 # Plugins (device-specific paths and caches)
 plugins/installed_plugins.json
 plugins/install-counts-cache.json
+plugins/known_marketplaces.json
 plugins/cache/
 plugins/marketplaces/
 

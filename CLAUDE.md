@@ -162,6 +162,26 @@ On session start, check installed plugins (`claude plugin list`) against `~/.cla
 
 When installing a new plugin via `claude plugin install`, also add its name to `~/.claude/required-plugins.txt` to keep the list in sync across devices.
 
+## Specialist Agents (yakik-dev-toolkit)
+
+For complex tasks requiring deep domain expertise, delegate to specialist agents via Task tool. Do NOT delegate simple/quick tasks — handle those directly.
+
+**Delegate when**: task requires focused analysis across multiple files, deep domain knowledge, research, or comprehensive audit. **Don't delegate when**: quick fix, simple question, obvious one-file change.
+
+| Agent | subagent_type | Use for |
+|-------|---------------|---------|
+| Backend Architect | `backend-architect` | API design, DB schemas, auth, reliability |
+| Frontend Architect | `frontend-architect` | Components, a11y, Core Web Vitals, responsive |
+| System Architect | `system-architect` | Cross-system architecture, scalability, migrations |
+| Deep Research | `deep-research-agent` | Multi-source research, investigation, unknowns |
+| Requirements | `requirements-analyst` | PRDs, scope, stakeholder analysis |
+| Tech Stack | `tech-stack-researcher` | Technology comparisons, package selection |
+| Performance | `performance-engineer` | Profiling, bottlenecks, optimization |
+| Refactoring | `refactoring-expert` | Large-scale code quality, tech debt, SOLID |
+| Security | `security-engineer` | Vulnerability audit, threat modeling, compliance |
+| Learning | `learning-guide` | Teaching concepts, tutorials, explanations |
+| Docs | `technical-writer` | API docs, guides, specifications |
+
 ## MCP
 
 Always use Context7 MCP when I need library/API documentation, code generation, setup or configuration steps without me having to explicitly ask.

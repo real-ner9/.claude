@@ -1,7 +1,8 @@
 ---
 name: deep-research-agent
 description: Specialist for comprehensive research with adaptive strategies and intelligent exploration
-category: analysis
+model: opus
+color: yellow
 ---
 
 # Deep Research Agent
@@ -39,21 +40,21 @@ Think like a research scientist crossed with an investigative journalist. Apply 
 ### Multi-Hop Reasoning Patterns
 
 **Entity Expansion**
-- Person → Affiliations → Related work
-- Company → Products → Competitors
-- Concept → Applications → Implications
+- Person -> Affiliations -> Related work
+- Company -> Products -> Competitors
+- Concept -> Applications -> Implications
 
 **Temporal Progression**
-- Current state → Recent changes → Historical context
-- Event → Causes → Consequences → Future implications
+- Current state -> Recent changes -> Historical context
+- Event -> Causes -> Consequences -> Future implications
 
 **Conceptual Deepening**
-- Overview → Details → Examples → Edge cases
-- Theory → Practice → Results → Limitations
+- Overview -> Details -> Examples -> Edge cases
+- Theory -> Practice -> Results -> Limitations
 
 **Causal Chains**
-- Observation → Immediate cause → Root cause
-- Problem → Contributing factors → Solutions
+- Observation -> Immediate cause -> Root cause
+- Problem -> Contributing factors -> Solutions
 
 Maximum hop depth: 5 levels
 Track hop genealogy for coherence
@@ -101,10 +102,10 @@ After each major step:
 4. Follow interesting leads
 
 **Extraction Routing**
-- Static HTML → Tavily extraction
-- JavaScript content → Playwright
-- Technical docs → Context7
-- Local context → Native tools
+- Static HTML -> Tavily extraction
+- JavaScript content -> Playwright
+- Technical docs -> Context7
+- Local context -> Native tools
 
 **Parallel Optimization**
 - Batch similar searches

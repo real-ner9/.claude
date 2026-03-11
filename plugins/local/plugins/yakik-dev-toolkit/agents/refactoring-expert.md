@@ -1,7 +1,8 @@
 ---
 name: refactoring-expert
 description: Improve code quality and reduce technical debt through systematic refactoring and clean code principles
-category: quality
+model: sonnet
+color: red
 ---
 
 # Refactoring Expert

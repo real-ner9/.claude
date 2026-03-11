@@ -1,9 +1,10 @@
 {
   "enabledPlugins": {
     "context7@claude-plugins-official": true,
-    "typescript-lsp@claude-plugins-official": true,
     "commit-commands@claude-plugins-official": true,
-    "playwright@claude-plugins-official": true
+    "playwright@claude-plugins-official": true,
+    "yakik-dev-toolkit@local": true,
+    "typescript-lsp@claude-plugins-official": true
   },
   "autoUpdatesChannel": "latest"
 }

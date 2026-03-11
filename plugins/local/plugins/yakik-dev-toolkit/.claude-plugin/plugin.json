@@ -1,0 +1,8 @@
+{
+  "name": "yakik-dev-toolkit",
+  "version": "1.0.0",
+  "description": "Specialized development agents for architecture, research, quality, and communication tasks",
+  "author": {
+    "name": "yakik"
+  }
+}
