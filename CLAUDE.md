@@ -164,9 +164,9 @@ When installing a new plugin via `claude plugin install`, also add its name to `
 
 ## Specialist Agents (yakik-dev-toolkit)
 
-For complex tasks requiring deep domain expertise, delegate to specialist agents via Task tool. Do NOT delegate simple/quick tasks — handle those directly.
+Delegate to specialist agents via Task tool proactively — not only for complex tasks, but also for medium-complexity ones (new components, multi-file changes, UI interactions, refactoring). It's better to get it right on the first iteration than to fix mistakes across multiple rounds.
 
-**Delegate when**: task requires focused analysis across multiple files, deep domain knowledge, research, or comprehensive audit. **Don't delegate when**: quick fix, simple question, obvious one-file change.
+**Delegate when**: new UI components, drag-and-drop or interactive features, multi-file changes, architecture decisions, research, audits, anything where domain expertise reduces iterations. **Don't delegate when**: quick one-liner fix, simple question, obvious single-file change.
 
 | Agent | subagent_type | Use for |
 |-------|---------------|---------|
@@ -181,6 +181,9 @@ For complex tasks requiring deep domain expertise, delegate to specialist agents
 | Security | `security-engineer` | Vulnerability audit, threat modeling, compliance |
 | Learning | `learning-guide` | Teaching concepts, tutorials, explanations |
 | Docs | `technical-writer` | API docs, guides, specifications |
+| QA Visual | `qa-visual-tester` | Visual verification, Playwright browser testing |
+
+**QA loop for UI tasks:** After any task that produces visual changes (frontend-architect, or UI work done directly), automatically run `qa-visual-tester` with the URL, what changed, and which app to build. If QA finds bugs — pass the report back to `frontend-architect` to fix, then re-run QA. Max 3 iterations. Skip when: change is non-visual, user says not to test, or no dev server URL available.
 
 ## MCP
 

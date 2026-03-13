@@ -43,6 +43,7 @@ Before doing anything, assess the task:
 | Security | `security-engineer` | Vulnerability assessment, threat modeling, compliance |
 | Learning | `learning-guide` | Teaching concepts, tutorials, step-by-step explanations |
 | Docs | `technical-writer` | API docs, user guides, technical specifications |
+| QA/Visual | `qa-visual-tester` | Visual verification after UI changes, Playwright browser testing |
 
 ### Step 3: Execute
 
@@ -52,3 +53,24 @@ Before doing anything, assess the task:
 - **Ambiguous** → briefly say which agent and why, then delegate
 
 Always pass the user's exact request and relevant project context to the agent.
+
+### Step 4: QA loop for UI tasks
+
+When a UI task produces visual changes (frontend-architect, or you handled a UI task yourself), automatically run the QA loop:
+
+1. **After the UI code is written** → delegate to `qa-visual-tester` with:
+   - The URL to test (ask the user if not obvious)
+   - What was changed and what to verify
+   - Which app to build (so QA can run the right build command)
+2. **If QA finds bugs** → pass the bug report back to `frontend-architect` (resume the same agent if possible) with:
+   - The specific bugs found by QA
+   - Screenshots/evidence from the QA report
+   - Ask to fix only the reported issues
+3. **After fixes** → run `qa-visual-tester` again to verify the fixes
+4. **Repeat** until QA passes or **max 3 iterations** (to avoid infinite loops — after 3 rounds, report remaining issues to the user)
+5. **If QA passes** → report success to the user with the final screenshots
+
+Skip the QA loop when:
+- The change is non-visual (pure logic, data layer, config)
+- The user explicitly says not to test
+- There is no URL to test against (no running dev server)
