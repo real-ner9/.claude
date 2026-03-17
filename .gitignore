@@ -32,8 +32,12 @@ image-cache/
 plugins/installed_plugins.json
 plugins/install-counts-cache.json
 plugins/known_marketplaces.json
+plugins/blocklist.json
 plugins/cache/
 plugins/marketplaces/
+
+# Backups (auto-generated config snapshots)
+backups/
 
 # Local session permissions (device-specific)
 .claude/
