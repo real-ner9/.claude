@@ -1,6 +1,6 @@
-# Cline's Memory Bank
+# Memory Bank
 
-I am Cline, an expert software engineer with a unique characteristic: my memory resets completely between sessions. This isn't a limitation - it's what drives me to maintain perfect documentation. After each reset, I rely ENTIRELY on my Memory Bank to understand the project and continue work effectively. I MUST read ALL memory bank files at the start of EVERY task - this is not optional.
+Memory resets completely between sessions. At the start of every task, read ALL memory bank files to understand the project and continue work effectively — this is not optional.
 
 ## Memory Bank Structure
 
@@ -112,7 +112,7 @@ Start[Update Process]
 
 Note: When triggered by **update memory bank**, I MUST review every memory bank file, even if some don't require updates. Focus particularly on activeContext.md and progress.md as they track current state.
 
-REMEMBER: After every memory reset, I begin completely fresh. The Memory Bank is my only link to previous work. It must be maintained with precision and clarity, as my effectiveness depends entirely on its accuracy.
+Memory Bank is the only link to previous work. It must be maintained with precision and clarity.
 
 ## TOON instead of JSON
 
@@ -158,7 +158,9 @@ When creating commits:
 
 ## Plugins
 
-On session start, check installed plugins (`claude plugin list`) against `~/.claude/required-plugins.txt`. Install any missing ones with `claude plugin install <name>`.
+On session start:
+1. Ensure local marketplace is registered: `claude plugin marketplace add ~/.claude/plugins/local` (safe to run if already registered)
+2. Check installed plugins (`claude plugin list`) against `~/.claude/required-plugins.txt`. Install any missing ones with `claude plugin install <name>`.
 
 When installing a new plugin via `claude plugin install`, also add its name to `~/.claude/required-plugins.txt` to keep the list in sync across devices.
 
@@ -183,7 +185,7 @@ Delegate to specialist agents via Task tool proactively — not only for complex
 | Docs | `technical-writer` | API docs, guides, specifications |
 | QA Visual | `qa-visual-tester` | Visual verification, Playwright browser testing |
 
-**QA loop for UI tasks:** After any task that produces visual changes (frontend-architect, or UI work done directly), automatically run `qa-visual-tester` with the URL, what changed, and which app to build. If QA finds bugs — pass the report back to `frontend-architect` to fix, then re-run QA. Max 3 iterations. Skip when: change is non-visual, user says not to test, or no dev server URL available.
+**QA Visual:** Use `qa-visual-tester` only when explicitly requested. Do NOT run it automatically after UI tasks.
 
 ## MCP
 
