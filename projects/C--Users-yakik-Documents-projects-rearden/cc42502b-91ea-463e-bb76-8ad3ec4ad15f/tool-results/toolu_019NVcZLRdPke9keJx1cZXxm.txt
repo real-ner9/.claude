@@ -1,0 +1,1371 @@
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:60
++ ... ' | ForEach-Object { \/c/Users/yakik/bash_completion.d/*.bash = Get-C ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+\/c/Users/yakik/bash_completion.d/*.bash : The term '\/c/Users/yakik/bash_completion.d/*.bash' is not recognized as 
+the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was 
+included, verify that the path is correct and try again.
+At line:1 char:134
++ ... t \extglob.FullName; \/c/Users/yakik/bash_completion.d/*.bash = \/c/U ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (\/c/Users/yakik/bash_completion.d/*.bash:String) [], CommandNotFoundExc 
+   eption
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Set-Content : Access to the path 'C:\extglob.FullName' is denied.
+At line:1 char:262
++ ... round: \;'; Set-Content \extglob.FullName \/c/Users/yakik/bash_comple ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : PermissionDenied: (C:\extglob.FullName:String) [Set-Content], UnauthorizedAccessExceptio 
+   n
+    + FullyQualifiedErrorId : GetContentWriterUnauthorizedAccessError,Microsoft.PowerShell.Commands.SetContentCommand

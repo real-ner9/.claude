@@ -28,8 +28,6 @@ sessions/
 projects/*
 # But track memory files for specific projects
 !projects/C--Users-yakik-Documents-projects-rearden/
-projects/C--Users-yakik-Documents-projects-rearden/*
-!projects/C--Users-yakik-Documents-projects-rearden/memory/
 image-cache/
 
 # Plugins (device-specific paths and caches)
