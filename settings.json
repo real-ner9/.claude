@@ -51,6 +51,9 @@
       "Bash(rm:*)",
       "Bash(dotnet:*)",
       "Bash(gh:*)",
+      "Bash(curl:*)",
+      "Bash(type:*)",
+      "Bash(docker:*)",
       "mcp__plugin_playwright_playwright__*",
       "mcp__plugin_context7_context7__*",
       "mcp__magic__*"
@@ -81,5 +84,6 @@
       }
     }
   },
-  "autoUpdatesChannel": "latest"
+  "autoUpdatesChannel": "latest",
+  "model": "opus"
 }
