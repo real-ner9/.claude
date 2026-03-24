@@ -22,12 +22,9 @@ tasks/
 file-history/
 sessions/
 
-# Per-project data (paths are device-specific, e.g. C--Users-yakik-...)
-# Each machine generates its own project dirs based on local paths.
-# Memory inside projects/ is useful but inherently device-bound.
+# Per-project data — ignore all except rearden
 projects/*
-# But track memory files for specific projects
-!projects/C--Users-yakik-Documents-projects-rearden/
+!projects/C--projects-rearden/
 image-cache/
 
 # Plugins (device-specific paths and caches)
